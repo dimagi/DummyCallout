@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DummyCallout</string>
+    <string name="hello_world">Enter your case data to match with</string>
+    <string name="action_settings">Settings</string>
+    <string name="return_data">Return Data</string>
+
+</resources>
